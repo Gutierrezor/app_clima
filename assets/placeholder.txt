@@ -1,0 +1,1 @@
+Añade aquí una captura de pantalla de la aplicación en `assets/app-clima-preview.png`
